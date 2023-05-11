@@ -1,2 +1,3 @@
-# Sequel-Books
-Final Project For Code First Girls Data and SQL Kickstarter Course
+# Code-First-Girls
+Final Projects For Code First Girls Courses
+- Data and SQL Kickstarter Course
