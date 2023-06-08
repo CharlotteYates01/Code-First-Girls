@@ -19,3 +19,5 @@ What did I do?
 - I created a function and stored procedure to help check stock levels
 
 I created my DB after 16 hours of taught sessions, and presented to the rest of the cohort. 
+
+![CFG_Certificate](https://github.com/CharlotteYates01/Code-First-Girls/assets/133214152/aceefdbb-458a-48ff-83c0-d4cbac25e06f)
